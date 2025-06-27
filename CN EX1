@@ -1,0 +1,6 @@
+tcpdump i- eth0
+netstat
+ipconfig
+nslookup.espn.com
+tracert www.google.in
+ping espn.com
